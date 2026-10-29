@@ -1,31 +1,35 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Verskud — embedded systems and microelectronics, with Arcane from Arknights: Endfield" width="100%" />
+  <img src="./assets/banner-geek.png" alt="Arcane at an electronics workbench — Verskud, code, circuits and anime" width="100%" />
 </p>
+
+<h3 align="center">low-level code / high-level brainrot</h3>
 
 <p align="center">
-  <b>Somewhere between code and silicon.</b><br />
-  Rust · C++ · C · Python
+  <img src="./assets/toolbox.svg" alt="Rust · C++ · C · Python" width="90%" />
 </p>
 
-I’m **Verskud**. My interests live where software meets hardware: **embedded systems, microelectronics, and low-level programming**. I enjoy understanding what happens beneath the abstractions and turning that understanding into things I can build.
+### `whoami`
 
-<p>
-  <img src="./assets/languages.svg" alt="Language toolkit: Rust, C++, C, Python" width="100%" />
-</p>
+**C++ enjoyer :3** — into **embedded systems**, **microelectronics**, and what happens underneath the abstractions.
 
-<p>
-  <img src="./assets/interests.svg" alt="Interests: embedded systems and firmware; microelectronics and circuits; low-level software, memory and performance" width="100%" />
-</p>
+If it has registers, pins, or a datasheet, you have my attention.
 
-<a href="https://github.com/Verskud/AstraLauncher">
-  <img src="./assets/astralauncher.svg" alt="AstraLauncher — an independent open-source Minecraft Java Edition launcher for Windows. View the project." width="100%" />
-</a>
+```toml
+[interests]
+software = ["embedded", "firmware", "low-level programming"]
+hardware = ["microelectronics", "microcontrollers", "circuits"]
+off_duty = "Arcane / Arknights: Endfield"
+```
+
+### `ls projects/`
+
+**↳ [AstraLauncher](https://github.com/Verskud/AstraLauncher)**  
+An independent Minecraft: Java Edition launcher for Windows. Open source, MIT licensed.  
+[source](https://github.com/Verskud/AstraLauncher) · [latest release](https://github.com/Verskud/AstraLauncher/releases/latest)
+
+---
 
 <p align="center">
-  <a href="https://github.com/Verskud?tab=repositories">Repositories</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Verskud/AstraLauncher/releases/latest">AstraLauncher releases</a>
-</p>
-
-<p align="center">
-  <sub>Visual theme inspired by Arcane · Arknights: Endfield © HYPERGRYPH / GRYPHLINE. Unofficial fan artwork.</sub>
+  <sub>code close to the metal. Arcane close to the heart.</sub><br />
+  <sub>Arcane · Arknights: Endfield © HYPERGRYPH / GRYPHLINE · unofficial fan art</sub>
 </p>
