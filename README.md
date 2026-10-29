@@ -1,19 +1,23 @@
-<p align="center">
-  <img src="./assets/banner-clean.png" alt="Verskud" width="100%" />
-</p>
+# 👋 About Me
 
-# Verskud :de: :us:
+I'm Verskud. I'm learning C, C++ and Rust, and I'm interested in embedded systems and microelectronics.
 
-### About
+🇩🇪 · 🇺🇸
 
-I'm learning C, C++ and Rust. My main interests are embedded systems and microelectronics.
+## 🔧 Currently Learning
 
-### Languages
+- Programming fundamentals
+- Microcontrollers and firmware
+- Basic electronics
+
+## 💻 Tech Stack
 
 <p>
-  <img src="./assets/toolbox.svg" alt="Rust, C++, C" width="70%" />
+  <img src="./assets/badge-c.svg" alt="C" height="30" />
+  <img src="./assets/badge-cpp.svg" alt="C++" height="30" />
+  <img src="./assets/badge-rust.svg" alt="Rust" height="30" />
 </p>
 
-### Learning
-
-For now, I'm focusing on the fundamentals. I want to get more comfortable with microcontrollers, firmware and the electronics behind them.
+<p>
+  <img src="./assets/banner-clean.png" alt="Verskud" width="100%" />
+</p>

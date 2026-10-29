@@ -18,7 +18,7 @@ The banner and matching avatar are original AI-generated fan artwork made with t
 - `assets/banner-clean.png`: profile cover, with the subtitle removed.
 - `assets/avatar-arcane.jpg`: matching avatar, encoded as JPEG below GitHub's 1 MB upload limit.
 - `assets/avatar-arcane-500.png`: avatar upload version, 500 by 500 pixels, below 1 MB.
-- `assets/toolbox.svg`: local vector language badges, using [Simple Icons](https://github.com/simple-icons/simple-icons) under CC0.
+- `assets/badge-c.svg`, `assets/badge-cpp.svg`, `assets/badge-rust.svg`: local vector language badges, using [Simple Icons](https://github.com/simple-icons/simple-icons) under CC0.
 
 The previous visual design is preserved in Git history at commit `a66bde2996471e558e967a8ff3b68dfa0782dfb2`.
 
