@@ -15,10 +15,10 @@ Preserve the large "Verskud" name exactly, all lime-green underline strokes and 
 
 The banner and matching avatar are original AI-generated fan artwork made with the built-in imagegen tool. The character identity reference is [Arcane's official Arknights: Endfield portrait](https://endfield.gryphline.com/en-us/operator). Arcane belongs to HYPERGRYPH / GRYPHLINE. This is an unofficial fan profile, with no affiliation with the game.
 
-- `assets/banner-clean.png`: profile cover, with the subtitle removed.
-- `assets/avatar-arcane.jpg`: matching avatar, encoded as JPEG below GitHub's 1 MB upload limit.
-- `assets/avatar-arcane-500.png`: avatar upload version, 500 by 500 pixels, below 1 MB.
-- `assets/badge-c.svg`, `assets/badge-cpp.svg`, `assets/badge-rust.svg`: local vector language badges, using [Simple Icons](https://github.com/simple-icons/simple-icons) under CC0.
+- `assets/banner.png`: profile cover, with the subtitle removed.
+- `assets/icon.jpg`: matching avatar, encoded as JPEG below GitHub's 1 MB upload limit.
+- `assets/icon.png`: avatar upload version, 500 by 500 pixels, below 1 MB.
+- `assets/c.svg`, `assets/cpp.svg`, `assets/rust.svg`: local vector language badges, using [Simple Icons](https://github.com/simple-icons/simple-icons) under CC0.
 
 The previous visual design is preserved in Git history at commit `a66bde2996471e558e967a8ff3b68dfa0782dfb2`.
 
