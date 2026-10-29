@@ -1,8 +1,21 @@
 # Artwork and assets
 
+## Banner subtitle removal
+
+The current banner was edited with the built-in imagegen tool to remove its subtitle while preserving the illustration.
+
+```text
+Use case: precise-object-edit.
+Edit target: the supplied existing GitHub banner.
+Make exactly one localized change: erase the small white subtitle "code, circuits & anime" below the large lavender handwritten name "Verskud" on the LEFT wall. Restore the dark painted wall texture naturally behind ONLY those small subtitle letters. Leave that subtitle area blank; do not replace it with any new words.
+Preserve the large "Verskud" name exactly, all lime-green underline strokes and stars, the character Arcane's face, eyes, silver hair, head ornaments, clothing, pose, hands, held PCB, every other element of the room, circuit boards, desk objects, monitors, waveform display, stickers including "unsafe {}", the composition, lighting, color grading, and overall 3:1 panoramic dimensions. Do not redraw or restyle the illustration. No other changes. The user likes the illustration and only wants this subtitle removed.
+```
+
+## Original artwork
+
 The banner and matching avatar are original AI-generated fan artwork made with the built-in imagegen tool. The character identity reference is [Arcane's official Arknights: Endfield portrait](https://endfield.gryphline.com/en-us/operator). Arcane belongs to HYPERGRYPH / GRYPHLINE. This is an unofficial fan profile, with no affiliation with the game.
 
-- `assets/banner-geek.png`: profile cover, anime electronics workbench.
+- `assets/banner-clean.png`: profile cover, with the subtitle removed.
 - `assets/avatar-arcane.jpg`: matching avatar, encoded as JPEG below GitHub's 1 MB upload limit.
 - `assets/toolbox.svg`: local vector language badges, using [Simple Icons](https://github.com/simple-icons/simple-icons) under CC0.
 
