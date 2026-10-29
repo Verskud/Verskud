@@ -17,4 +17,3 @@ I'm learning C, C++ and Rust. My main interests are embedded systems and microel
 ### Learning
 
 For now, I'm focusing on the fundamentals. I want to get more comfortable with microcontrollers, firmware and the electronics behind them.
-
