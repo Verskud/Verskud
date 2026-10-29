@@ -23,8 +23,8 @@ off_duty = "Arcane / Arknights: Endfield"
 
 ### `ls projects/`
 
-**↳ [AstraLauncher](https://github.com/Verskud/AstraLauncher)**  
-An independent Minecraft: Java Edition launcher for Windows. Open source, MIT licensed.  
+**↳ [AstraLauncher](https://github.com/Verskud/AstraLauncher)**<br />
+An independent Minecraft: Java Edition launcher for Windows. Open source, MIT licensed.<br />
 [source](https://github.com/Verskud/AstraLauncher) · [latest release](https://github.com/Verskud/AstraLauncher/releases/latest)
 
 ---
